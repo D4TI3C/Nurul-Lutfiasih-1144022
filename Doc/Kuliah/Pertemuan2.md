@@ -1,3 +1,7 @@
+<p align ="center">
+<img src="../../img/pertemuan2.png" width="600px">
+</p>
+
 **Latar Belakang**
 
 Representasi Pengetahuan merupakan metode yang digunakan untuk mengodekan pengetahuan dalam sebuah sistem pakar. Hal ini dimaksudkan untuk menangkap sifat-sifat penting problema, membuat informasi itu dapat diakses oleh prosedur pemecahan problema.
