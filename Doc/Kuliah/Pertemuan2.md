@@ -1,5 +1,5 @@
 <p align ="center">
-<img src="../../img/pertemuan2.png" width="600px">
+<img src="../../img/pertemuan 2.png" width="600px">
 </p>
 
 **Latar Belakang**
