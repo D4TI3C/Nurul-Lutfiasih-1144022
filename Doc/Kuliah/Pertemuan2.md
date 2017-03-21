@@ -23,6 +23,11 @@ Dari Bandung menuju Jakarta (Udara dengan jarak 154,1 KM)
 Dari Bandung menuju Cirebon (Darat dengan jarak 215,2 KM)
 Dari Bandung Menuju Lampung (Laut dengan jarak 481,4 KM)
 
+Contoh hasil implementasi:
+<p align ="center">
+<img src="../../img/pertemuan2.PNG" width="600px">
+</p>
+
 **Kesimpulan**
 
 Representasi merupakan penyajian fakta yang logic
