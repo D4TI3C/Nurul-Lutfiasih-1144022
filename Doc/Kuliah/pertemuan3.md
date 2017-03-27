@@ -1,5 +1,5 @@
 <p align ="center">
-<img src="../../img/reasoning.JPG" width="600px">
+<img src="../../img/reasoning.JPG" width="300px">
 </p>
 
 **Latar Belakang**
@@ -11,6 +11,10 @@ Contohnya yaitu Apel adalah buah-buahan. Itu merupakan fakta yang benar dan nyat
 Semantic network adalah bentuk link yang memiliki arah atau representasi garis deklaratif yang dapat digunakan baik untuk mewakili pengetahuan atau pendukung penalaran pengetahuan sistem otomatis.
 
 Contoh dari analogi sematic network yaitu ada seorang petani, serigala, ayam dan padi. Petani tersebut ingin pindah dengan membawa seekor srigala, ayam dan padi untuk menyebrangi sungai. Sayangnya perahunya terbatas. Yang dapat petani lakukan yaitu dengan membawa 1 object. Petani tersebut tidak bisa meninggalkan ayam dan serigala dalam satu tempat karena ayam tersebut akan di mayam oleh srigala. Demikian pula petani tidak bisa meninggallkan ayam dan padi dalam satu tempat karena padi akan dihabiskan oleh ayam. Dari permasalahan tersebut kita dapat menggunakan semantic network untuk mempresentasikannya.
+Hasil dari app yang dijalankan:
+<p align ="center">
+<img src="../../img/pertemuan 3.JPG" width="300px">
+</p>
 
 **Kesimpulan**
 
