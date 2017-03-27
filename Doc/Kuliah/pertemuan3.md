@@ -1,3 +1,7 @@
+<p align ="center">
+<img src="../../img/reasoning.JPG" width="600px">
+</p>
+
 **Latar Belakang**
 
 teknik reasoning (penalaran) yang merupakan teknik penyelesaian masalah dengan cara merepresentasikan masalah ke dalam basis pengetahuan (knowledge base) mengunakan logic atau bahasa formal (bahasa yang dipahami komputer.
