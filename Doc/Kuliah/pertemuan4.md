@@ -1,5 +1,5 @@
 <p align ="center">
-<img src="../../img/pertemuan4-1.JPG" width="400px">
+<img src="../../img/pertemuan4-1.JPG" width="200px">
 </p>
 
 **Latar Belakang**
@@ -50,13 +50,13 @@ Aturan:
 Solusi:
 
 <p align ="center">
-<img src="../../img/pertemuan4-2.JPG" width="400px">
+<img src="../../img/pertemuan4-2.jpg" width="200px">
 </p>
 
 Hasil program:
 
 <p align ="center">
-<img src="../../img/pertemuan 4.JPG" width="400px">
+<img src="../../img/pertemuan 4.JPG" width="200px">
 </p>
 
 Kesimpulan:
