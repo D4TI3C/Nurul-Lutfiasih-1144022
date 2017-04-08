@@ -1,3 +1,7 @@
+<p align ="center">
+<img src="../../pertemuan4-1.JPG" width="400px">
+</p>
+
 **Latar Belakang**
 
 Dalam kecerdasan masalah terdapat sebuah masalah, kemudian masalah tersebut didefinisikan kedalam ruang keadaan meliputi keadaan awal, aturan dan tujuan atau keadaan akhir.
@@ -45,8 +49,15 @@ Aturan:
 
 Solusi:
 
+<p align ="center">
+<img src="../../pertemuan4-2.JPG" width="400px">
+</p>
 
 Hasil program:
+
+<p align ="center">
+<img src="../../pertemuan 4.JPG" width="400px">
+</p>
 
 Kesimpulan:
 
