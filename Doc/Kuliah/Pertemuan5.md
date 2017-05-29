@@ -1,3 +1,7 @@
+<p align = "center">
+<img src="../../img/pertemuan5.PNG" width="600px">
+</p>
+
 Latar Belakang Masalah
 
 1. Pengolahan Bahasa Alami
@@ -20,11 +24,11 @@ Contohnya : Siri, Google Assistant
 
 - --Morfologi yaitu pembentukan kata dari kata dasar.
 
-Contohnya: Menyanyi = Me – Nyanyi
+Contohnya: Menyanyi = Me â€“ Nyanyi
 
 - --Sintaksis yaitu pembagian atau pembuatan aturan baku sebuah kalimat.
 
-Contoh : Ibupergike pasar
+Contoh : Ibu pergike pasar
 
                   S            P         K
 
@@ -44,4 +48,10 @@ Merupakan pengenalan suara dengan library phyton dengan dukungan API dan beberap
 - --Install PocketSphinx untuk sphinx recognizer
 - --Install Goog;e API Client Library for Python untuk menggunakan Google loud Speech
 - --Dan yang terakhir install SpeechRecognition.
-- --Dibawah ini adalah hasil contoh programnya
+- --Dibawah ini adalah hasil contoh programnya:
+
+<p align ="center">
+<img src="../../img/pertemuan-5.PNG" width="600px">
+</p>
+
+Blog : https://wiwilutfiasih.wordpress.com/?p=447
