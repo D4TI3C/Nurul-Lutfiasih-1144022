@@ -44,7 +44,7 @@ Crisp set dapat digunakan untuk merepresentasikan gambaran pengertian hitam dan 
 Untuk lebih jelasnya, bisa dilihat dari contoh dibawah ini :
 
 <p align ="center">
-<img src="../../img/pertemuan6-2.PNG" width="600px">
+<img src="../../img/pertemuan6-2.png" width="600px">
 </p> 
 
 Dari gambar diatas dapat dijelaskan sebagai berikut:
