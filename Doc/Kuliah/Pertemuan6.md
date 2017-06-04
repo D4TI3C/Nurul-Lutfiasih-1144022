@@ -1,3 +1,7 @@
+<p align ="center">
+<img src="../../img/pertemuan6.PNG" width="300px">
+</p>
+
 **Latar Belakang Masalah**
 
 1. Bagaimana sejarah logika Fuzzy?
@@ -39,23 +43,25 @@ Crisp set dapat digunakan untuk merepresentasikan gambaran pengertian hitam dan 
 
 Untuk lebih jelasnya, bisa dilihat dari contoh dibawah ini :
 
- 
+<p align ="center">
+<img src="../../img/pertemuan6-2.PNG" width="600px">
+</p> 
 
 Dari gambar diatas dapat dijelaskan sebagai berikut:
 
-1. Apabila seseorang berusia 34 tahun, maka ia dikatakan MUDA (µMUDA[34] = 1)
-2. Apabila seseorang berusia 35 tahun, maka ia dikatakan TIDAK MUDA (µMUDA[35] = 0);
-3. Apabila seseorang berusia 35 tahun kurang 1 hari, maka ia dikatakan TIDAK MUDA (µMUDA[35 –1hr]=0
-4. Apabila seseorang berusia 35 tahun, maka ia dikatakan PAROBAYA (µPAROBAYA[35] = 1);
-5. Apabila seseorang berusia 34 tahun, maka ia dikatakan TIDAK PAROBAYA (µPAROBAYA[34] = 0);
-6. Apabila seseorang berusia 55 tahun, maka ia dikatakan PAROBAYA (µPAROBAYA[55] = 1);
-7. Apabila seseorang berusia 35 tahun kurang 1 hari, maka ia dikatakan TIDAK PAROBAYA (µPAROBAYA[35 – 1hr] = 0);
+1. Apabila seseorang berusia 34 tahun, maka ia dikatakan MUDA (ÂµMUDA[34] = 1)
+2. Apabila seseorang berusia 35 tahun, maka ia dikatakan TIDAK MUDA (ÂµMUDA[35] = 0);
+3. Apabila seseorang berusia 35 tahun kurang 1 hari, maka ia dikatakan TIDAK MUDA (ÂµMUDA[35 â€“1hr]=0
+4. Apabila seseorang berusia 35 tahun, maka ia dikatakan PAROBAYA (ÂµPAROBAYA[35] = 1);
+5. Apabila seseorang berusia 34 tahun, maka ia dikatakan TIDAK PAROBAYA (ÂµPAROBAYA[34] = 0);
+6. Apabila seseorang berusia 55 tahun, maka ia dikatakan PAROBAYA (ÂµPAROBAYA[55] = 1);
+7. Apabila seseorang berusia 35 tahun kurang 1 hari, maka ia dikatakan TIDAK PAROBAYA (ÂµPAROBAYA[35 â€“ 1hr] = 0);
 
 Berdasarkan kasus diatas dapat dikatakan bahwa pemakaian himpunan crisp untuk menyatakan umur sangat tidak adil, adanya perubahan kecil saja pada suatu nilai mengakibatkan perbedaan kategori yang cukup signifikan. Oleh karena itu digunakanlah himpunan fuzzy untuk mengantisipasi hal tersebut.
 
 b. FUZZY SET
 
-Logika fuzzy lahir berdasarkan fenomena – fenomena alam yang serba tidak tepat dan samar ditinjau dari cara berpikir manusia, dimana pada kenyataannya tidak ada suatu kondisi atau pernyataan yang tepat 100% benar atau 100% salah.
+Logika fuzzy lahir berdasarkan fenomena â€“ fenomena alam yang serba tidak tepat dan samar ditinjau dari cara berpikir manusia, dimana pada kenyataannya tidak ada suatu kondisi atau pernyataan yang tepat 100% benar atau 100% salah.
 
 **KESIMPULAN**
 
